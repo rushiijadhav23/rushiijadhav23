@@ -19,10 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=borntofly23&show_icons=true&theme=radical)
 
-## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=borntofly23&repo=project1&theme=radical)](https://github.com/borntofly23/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=borntofly23&repo=project2&theme=radical)](https://github.com/borntofly23/project2)
-
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/borntofly23)
 - [Twitter](https://twitter.com/borntofly23)
