@@ -1,4 +1,4 @@
-# Hi there, I'm borntofly23! 👋
+# Hi there, I'm rushiijadhav23! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions. Here's a little bit about me:
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Tools:** Git, Docker, VS Code, Jupyter
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=borntofly23&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rushiijadhav23&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rushikesh-jadhav-3884b3237/)
