@@ -1,4 +1,4 @@
-# Hi there, I'm rushiijadhav23! 👋
+# Hi there, I'm Rushikesh Jadhav! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions. Here's a little bit about me:
 
