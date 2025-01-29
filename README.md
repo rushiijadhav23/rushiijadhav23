@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 - ✈️ I love flying and anything related to aviation.
 - 📚 Avid reader and always looking for book recommendations.
-- 🎮 Enjoy playing video games in my free time.
+- 🏃🏻 Love to Run Marathons and Ultra Runs
 
 Feel free to explore my repositories and reach out if you want to collaborate or have any questions!
 
