@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions. Here's a little bit about me:
 
+Hello, I'm a final-year Computer Engineering student who loves building useful and creative tech projects. I enjoy working with full-stack development, machine learning, and cloud tools to turn ideas into real solutions. I believe in the mindset "Never back down💪🏻", which helps me stay motivated in both my work and life.
+Outside of coding, I also love running 🏃🏻 — whether it's marathons, ultra-marathons, or just challenging myself to go further. These experiences have taught me the value of patience, hard work, and never giving up.
+I'm always excited to meet new people, learn new things, and work on interesting projects. Feel free to connect — I'd love to share ideas and build something great together! 🌟
+
 ## 🚀 About Me
 - 🔭 I’m currently working on various exciting projects in web development and data science.
 - 🌱 I’m always learning and exploring new technologies and frameworks.
