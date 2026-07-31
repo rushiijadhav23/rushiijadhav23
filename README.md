@@ -1,36 +1,60 @@
 # Hi there, I'm Rushikesh Jadhav! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development and open-source contributions. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a full-stack developer who loves building useful and creative tech products end-to-end - from database schema to deployment.
 
-Hello, I'm a final-year Computer Engineering student who loves building useful and creative tech projects. I enjoy working with full-stack development, machine learning, and cloud tools to turn ideas into real solutions. I believe in the mindset "Never back down💪🏻", which helps me stay motivated in both my work and life.
-Outside of coding, I also love running 🏃🏻 — whether it's marathons, ultra-marathons, or just challenging myself to go further. These experiences have taught me the value of patience, hard work, and never giving up.
-I'm always excited to meet new people, learn new things, and work on interesting projects. Feel free to connect — I'd love to share ideas and build something great together! 🌟
+I'm a Computer Engineering graduate from the University of Mumbai, currently working as an SDE Intern at **Gtribe Experiences**, where I'm single-handedly architecting and building a full-stack adventure-tourism platform - from PRD to production. Before this, I interned at **FYND**, working on backend systems and REST APIs, and owning our documentation pipeline.
+
+I believe in the mindset **"Never back down 💪🏻"** - it keeps me going through hard problems, tight deadlines, and long runs alike.
+
+Outside of code, I'm a marathon runner 🏃🏻 - full marathons, ultra-marathons, and anything that makes me go further than I planned to. I also write tech blogs and make YouTube videos about what I'm learning, because explaining something well is how I actually understand it.
+
+I'm always excited to meet new people, learn new things, and work on interesting projects. Feel free to connect - I'd love to share ideas and build something great together! 🌟
 
 ## 🚀 About Me
-- 🔭 I’m currently working on various exciting projects in web development and data science.
-- 🌱 I’m always learning and exploring new technologies and frameworks.
-- 👯 I’m looking to collaborate on open-source projects that have a meaningful impact.
-- 💬 Ask me about Python, JavaScript, or any tech-related topics!
-- 📫 How to reach me: [rushijadhav1423@gmail.com](mailto:rushijadhav1423@gmail.com)
+
+- 🔭 Currently building **Gtribe Experiences'** entire digital ecosystem - bookings, e-commerce, admin dashboards, and invoicing, as the sole developer
+- 🌱 Always learning - currently going deeper into real-time systems (Socket.io, Redis pub/sub) and AI-assisted development workflows
+- 👯 Looking to collaborate on open-source projects that have a meaningful impact
+- ✍️ I write about what I learn - tokenization, LLMs, and web fundamentals - on my [blog](https://hashnode.com/@rushiii)
+- 💬 Ask me about full-stack development, PostgreSQL schema design, or anything I'm building
+- 📫 Reach me at [rushijadhav1423@gmail.com](mailto:rushijadhav1423@gmail.com)
 
 ## 🛠 Technologies & Tools
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, VS Code, Jupyter
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rushiijadhav23&show_icons=true&theme=radical)
+- **Languages:** JavaScript, TypeScript, SQL, Python
+- **Frameworks & Tools:** Next.js, React.js, Node.js, Express.js, React Native, Expo
+- **Backend:** REST APIs, API Design, Authentication (JWT), Webhooks, Socket.io, BullMQ
+- **Databases:** PostgreSQL, MongoDB, SQLite, Redis, Drizzle ORM
+- **Frontend:** Tailwind CSS, shadcn/ui, Zustand, TanStack Query
+- **DevOps & Cloud:** Docker, Vercel, Supabase, GitHub Actions, AWS (EC2, S3), Azure
+- **AI Tools:** GitHub Copilot, Claude, Cursor
+- **Other:** Postman, Razorpay, Cloudflare, Sentry, Git
+
+## 💼 Featured Projects
+
+- **[BookMyTicket](https://github.com/rushiijadhav23/book-my-ticket)** - A movie ticket booking platform with JWT auth, concurrency-safe seat booking, and a normalized PostgreSQL schema. Containerized with Docker and deployed on Render.
+- **[Vilokana (Reunite)](https://github.com/rushiijadhav23/Renuite-TSEC)** - A full-stack missing person tracking platform using face-recognition (DeepFace) and real-time WhatsApp alerting.
+- **[Pravaah](https://github.com/rushiijadhav23/pravaah)** - A cross-border logistics route planner built on Neo4j graph database, with AI-automated compliance checks.
+
+## 🏆 Achievements
+
+- 🥉 3rd Place among 100+ teams - AIQuest Hackathon 2024, IIT Bombay
+- 🏅 Top 5 Finalist + Best Technical Execution - FYND Hacktimus 2025
+- 🎖️ Top 12 - TSEC Hacks 2025
+- 🎯 Top 10 - Next Gen Minds 2025, JAGSoM Bengaluru
 
 ## 📫 Connect with Me
+
+- [Website](https://inapp.app/rushiijadhav23)
 - [LinkedIn](https://www.linkedin.com/in/rushikesh-jadhav-3884b3237/)
-- [Twitter](https://x.com/born_to_fly23)
+- [Twitter](https://x.com/rushiijadhav1423)
+- [Blog](https://hashnode.com/@rushiii)
 
 ## Fun Facts
 
-- ✈️ I love flying and anything related to aviation.
-- 📚 Avid reader and always looking for book recommendations.
-- 🏃🏻 Love to Run Marathons and Ultra Runs
+- ✈️ I love flying and anything related to aviation
+- 📚 Avid reader - always looking for book recommendations
+- 🏃🏻 Marathon and ultra-marathon runner
 
 Feel free to explore my repositories and reach out if you want to collaborate or have any questions!
 
