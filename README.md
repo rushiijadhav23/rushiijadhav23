@@ -30,12 +30,6 @@ I'm always excited to meet new people, learn new things, and work on interesting
 - **AI Tools:** GitHub Copilot, Claude, Cursor
 - **Other:** Postman, Razorpay, Cloudflare, Sentry, Git
 
-## 💼 Featured Projects
-
-- **[BookMyTicket](https://github.com/rushiijadhav23/book-my-ticket)** - A movie ticket booking platform with JWT auth, concurrency-safe seat booking, and a normalized PostgreSQL schema. Containerized with Docker and deployed on Render.
-- **[Vilokana (Reunite)](https://github.com/rushiijadhav23/Renuite-TSEC)** - A full-stack missing person tracking platform using face-recognition (DeepFace) and real-time WhatsApp alerting.
-- **[Pravaah](https://github.com/rushiijadhav23/pravaah)** - A cross-border logistics route planner built on Neo4j graph database, with AI-automated compliance checks.
-
 ## 🏆 Achievements
 
 - 🥉 3rd Place among 100+ teams - AIQuest Hackathon 2024, IIT Bombay
