@@ -1,55 +1,59 @@
-# Hi there, I'm Rushikesh Jadhav! 👋
+# Hi, I'm Rushikesh Jadhav 👋
 
-Welcome to my GitHub profile! I'm a full-stack developer who loves building useful and creative tech products end-to-end - from database schema to deployment.
+I build web apps end to end, but the backend is where I'm happiest: the parts nobody notices until they break. Lately that's meant figuring out how to stop 200 people from booking the same 30 seats on a trek. (Spoiler: it works.)
 
-I'm a Computer Engineering graduate from the University of Mumbai, currently working as an SDE Intern at **Gtribe Experiences**, where I'm single-handedly architecting and building a full-stack adventure-tourism platform - from PRD to production. Before this, I interned at **FYND**, working on backend systems and REST APIs, and owning our documentation pipeline.
+I'm a Computer Engineering graduate from the University of Mumbai, currently an SDE Intern at **Gtribe Experiences**, where I architected and built **Gtribe 2.0** end to end, from PRD to production. Before that, I interned at **FYND**, working on backend systems, API pipelines and product documentation, and directly with customers to help them adopt the product.
 
-I believe in the mindset **"Never back down 💪🏻"** - it keeps me going through hard problems, tight deadlines, and long runs alike.
+My mindset is **"Never back down 💪🏻"**. It keeps me going through hard bugs, tight deadlines and long runs alike.
 
-Outside of code, I'm a marathon runner 🏃🏻 - full marathons, ultra-marathons, and anything that makes me go further than I planned to. I also write tech blogs and make YouTube videos about what I'm learning, because explaining something well is how I actually understand it.
+## 🏔️ What I'm building now: Gtribe 2.0
 
-I'm always excited to meet new people, learn new things, and work on interesting projects. Feel free to connect - I'd love to share ideas and build something great together! 🌟
+A unified adventure-tourism platform for two companies under one login: trek bookings, a gear shop, corporate CRM and GST invoicing. Launching on [gtribe.in](https://gtribe.in) in October 2026.
 
-## 🚀 About Me
+- **No overbooking:** seats are held for 15 minutes at booking time; 200 users racing for 30 seats produced exactly 30 bookings at ~730 req/s with zero errors
+- **No lost payments:** 3-way Razorpay reconciliation (callback, webhook, server verification) with idempotent confirmation
+- **Solid data model:** a normalized PostgreSQL schema in Drizzle ORM across 55 migrations, covering bookings, RBAC, quotations and GST invoicing
+- **Automated ops:** WhatsApp OTP login and 25 notification templates sent through a Redis + BullMQ queue
 
-- 🔭 Currently building **Gtribe Experiences'** entire digital ecosystem - bookings, e-commerce, admin dashboards, and invoicing, as the sole developer
-- 🌱 Always learning - currently going deeper into real-time systems (Socket.io, Redis pub/sub) and AI-assisted development workflows
-- 👯 Looking to collaborate on open-source projects that have a meaningful impact
-- ✍️ I write about what I learn - tokenization, LLMs, and web fundamentals - on my [blog](https://hashnode.com/@rushiii)
-- 💬 Ask me about full-stack development, PostgreSQL schema design, or anything I'm building
-- 📫 Reach me at [rushijadhav1423@gmail.com](mailto:rushijadhav1423@gmail.com)
+`Next.js` `Express` `PostgreSQL` `Drizzle` `Redis` `BullMQ` `Razorpay` `Vercel` `Supabase`
 
-## 🛠 Technologies & Tools
+## 🧩 Featured Projects
 
-- **Languages:** JavaScript, TypeScript, SQL, Python
-- **Frameworks & Tools:** Next.js, React.js, Node.js, Express.js, React Native, Expo
-- **Backend:** REST APIs, API Design, Authentication (JWT), Webhooks, Socket.io, BullMQ
-- **Databases:** PostgreSQL, MongoDB, SQLite, Redis, Drizzle ORM
-- **Frontend:** Tailwind CSS, shadcn/ui, Zustand, TanStack Query
-- **DevOps & Cloud:** Docker, Vercel, Supabase, GitHub Actions, AWS (EC2, S3), Azure
-- **AI Tools:** GitHub Copilot, Claude, Cursor
-- **Other:** Postman, Razorpay, Cloudflare, Sentry, Git
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [BookMyTicket](https://github.com/rushiijadhav23/book-my-ticket) | Seat booking that prevents duplicate reservations under concurrent requests | Node.js, Express, PostgreSQL, React, Docker |
+| [AIQuest](https://github.com/Jeevanchoudhary9/AIQuests) | Hybrid RAG Q&A (BM25 + dense retrieval via RRF), 3rd place at IIT Bombay | Flask, ElasticSearch, LangChain, Llama 3.2 |
+| [Vilokana (Reunite)](https://github.com/rushiijadhav23/Renuite-TSEC) | Missing-person tracker using facial recognition and WhatsApp alerts | React, Flask, deepface, Leaflet |
+| [Persona AI](https://github.com/rushiijadhav23/PersonaAI) | Persona chat with context trimming and prompt-injection defense | Next.js, LLM APIs |
+
+## 🛠 Tech Stack
+
+- **Languages:** TypeScript, JavaScript, SQL, Python
+- **Backend:** Node.js, Express.js, REST API design, JWT auth, RBAC, webhooks, BullMQ, Socket.io
+- **Databases:** PostgreSQL, Drizzle ORM, Redis, Supabase, MongoDB, SQLite
+- **Frontend:** Next.js, React.js, React Native, Expo, Tailwind CSS, shadcn/ui, Zustand, TanStack Query
+- **Cloud & DevOps:** Vercel, Docker, Linux VPS, GitHub Actions, AWS (EC2, S3), Azure, Cloudflare, Sentry
+- **AI Tools:** Claude Code, Claude, Cursor, GitHub Copilot, LangChain
+- **Integrations:** Razorpay, WhatsApp Business API, ImageKit, Postman
 
 ## 🏆 Achievements
 
-- 🥉 3rd Place among 100+ teams - AIQuest Hackathon 2024, IIT Bombay
-- 🏅 Top 5 Finalist + Best Technical Execution - FYND Hacktimus 2025
-- 🎖️ Top 12 - TSEC Hacks 2025
-- 🎯 Top 10 - Next Gen Minds 2025, JAGSoM Bengaluru
+- 🥉 3rd Place among 100+ teams, AIQuest Hackathon 2024, IIT Bombay
+- 🏅 Top 5 Finalist + Best Technical Execution, FYND Hacktimus 2025
+- 🎖️ Top 12, TSEC Hacks 2025
+- 🎯 Top 10, Next Gen Minds 2025, JAGSoM Bengaluru
 
-## 📫 Connect with Me
+## 🌱 Right now
 
-- [Website](https://inapp.app/rushiijadhav23)
-- [LinkedIn](https://www.linkedin.com/in/rushikesh-jadhav-3884b3237/)
-- [Twitter](https://x.com/rushiijadhav1423)
-- [Blog](https://hashnode.com/@rushiii)
+- 🔭 Shipping Gtribe 2.0 to production, then adding live seat counts with Socket.io
+- ✍️ Writing about what I learn (LLMs, tokenization, web fundamentals) on [Hashnode](https://hashnode.com/@rushiii) and [YouTube](https://www.youtube.com/@rushiijadhav23)
+- 💬 Ask me about PostgreSQL schema design, payment flows, or handling concurrency
+- 💼 Open to backend and full-stack roles
 
-## Fun Facts
+## 📫 Connect
 
-- ✈️ I love flying and anything related to aviation
-- 📚 Avid reader - always looking for book recommendations
-- 🏃🏻 Marathon and ultra-marathon runner
+[Portfolio](https://rushikeshjadhav-ten.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rushiijadhav23/) · [X](https://x.com/rushiijadhav23) · [Blog](https://hashnode.com/@rushiii) · [YouTube](https://www.youtube.com/@rushiijadhav23) · [Email](mailto:rushijadhav1423@gmail.com)
 
-Feel free to explore my repositories and reach out if you want to collaborate or have any questions!
+## ✨ Off the keyboard
 
-Happy coding! 😊
+🏃🏻 Marathon and ultra-marathon runner · ✈️ Aviation nerd · 📚 Always looking for book recommendations
