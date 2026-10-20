@@ -2,20 +2,21 @@
 
 I build web apps end to end, but the backend is where I'm happiest: the parts nobody notices until they break. Lately that's meant figuring out how to stop 200 people from booking the same 30 seats on a trek. (Spoiler: it works.)
 
-I'm a Computer Engineering graduate from the University of Mumbai, currently an SDE Intern at **Gtribe Experiences**, where I architected and built **Gtribe 2.0** end to end, from PRD to production. Before that, I interned at **FYND**, working on backend systems, API pipelines and product documentation, and directly with customers to help them adopt the product.
+I'm a Computer Engineering graduate from the University of Mumbai, currently an SDE Intern at **Gtribe Experiences**, where I architected, built and shipped **Gtribe 2.0** end to end, from PRD to production. Before that, I interned at **FYND**, working on backend systems, API pipelines and product documentation, and directly with customers to help them adopt the product.
 
 My mindset is **"Never back down 💪🏻"**. It keeps me going through hard bugs, tight deadlines and long runs alike.
 
-## 🏔️ What I'm building now: Gtribe 2.0
+## 🏔️ Shipped: Gtribe 2.0 — live on [gtribe.in](https://gtribe.in)
 
-A unified adventure-tourism platform for two companies under one login: trek bookings, a gear shop, corporate CRM and GST invoicing. Launching on [gtribe.in](https://gtribe.in) in October 2026.
+A unified adventure-tourism platform for two companies under one login: trek bookings, a gear shop, corporate CRM and GST invoicing. **Live in production since 17 October 2026**, taking real bookings and payments.
 
 - **No overbooking:** seats are held for 15 minutes at booking time; 200 users racing for 30 seats produced exactly 30 bookings at ~730 req/s with zero errors
-- **No lost payments:** 3-way Razorpay reconciliation (callback, webhook, server verification) with idempotent confirmation
-- **Solid data model:** a normalized PostgreSQL schema in Drizzle ORM across 55 migrations, covering bookings, RBAC, quotations and GST invoicing
-- **Automated ops:** WhatsApp OTP login and 25 notification templates sent through a Redis + BullMQ queue
+- **No lost payments:** 3-way Razorpay reconciliation (callback, webhook, server verification) with idempotent confirmation and an auto-generated GST invoice
+- **Solid data model:** a normalized PostgreSQL schema in Drizzle ORM across 60 migrations, covering bookings, RBAC, quotations and GST invoicing for two companies
+- **Automated ops:** WhatsApp OTP login and 25 notification templates sent through a Redis + BullMQ queue, with retries, de-duplication and daily scheduled jobs
+- **Fast and findable:** cached public pages that refresh in the background, fresh reads for anything personal or money-related, plus sitemaps, structured data and redirects from the old site
 
-`Next.js` `Express` `PostgreSQL` `Drizzle` `Redis` `BullMQ` `Razorpay` `Vercel` `Supabase`
+`Next.js` `Express` `PostgreSQL` `Drizzle` `Redis` `BullMQ` `Razorpay` `Vercel` `Supabase` `Nginx`
 
 ## 🧩 Featured Projects
 
@@ -32,7 +33,7 @@ A unified adventure-tourism platform for two companies under one login: trek boo
 - **Backend:** Node.js, Express.js, REST API design, JWT auth, RBAC, webhooks, BullMQ, Socket.io
 - **Databases:** PostgreSQL, Drizzle ORM, Redis, Supabase, MongoDB, SQLite
 - **Frontend:** Next.js, React.js, React Native, Expo, Tailwind CSS, shadcn/ui, Zustand, TanStack Query
-- **Cloud & DevOps:** Vercel, Docker, Linux VPS, GitHub Actions, AWS (EC2, S3), Azure, Cloudflare, Sentry
+- **Cloud & DevOps:** Vercel, Docker, Linux VPS, Nginx, GitHub Actions, AWS (EC2, S3), Azure, Cloudflare, Sentry
 - **AI Tools:** Claude Code, Claude, Cursor, GitHub Copilot, LangChain
 - **Integrations:** Razorpay, WhatsApp Business API, ImageKit, Postman
 
@@ -45,14 +46,14 @@ A unified adventure-tourism platform for two companies under one login: trek boo
 
 ## 🌱 Right now
 
-- 🔭 Shipping Gtribe 2.0 to production, then adding live seat counts with Socket.io
+- 🔭 Gtribe 2.0 is live; next up are live seat counts with Socket.io and automated Razorpay refunds
 - ✍️ Writing about what I learn (LLMs, tokenization, web fundamentals) on [Hashnode](https://hashnode.com/@rushiii) and [YouTube](https://www.youtube.com/@rushiijadhav23)
 - 💬 Ask me about PostgreSQL schema design, payment flows, or handling concurrency
 - 💼 Open to backend and full-stack roles
 
 ## 📫 Connect
 
-[Portfolio](https://rushikeshjadhav-ten.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/rushiijadhav23/) · [X](https://x.com/rushiijadhav23) · [Blog](https://hashnode.com/@rushiii) · [YouTube](https://www.youtube.com/@rushiijadhav23) · [Email](mailto:rushijadhav1423@gmail.com)
+[Portfolio](https://rushijadhav.com) · [LinkedIn](https://www.linkedin.com/in/rushiijadhav23/) · [X](https://x.com/rushiijadhav23) · [Blog](https://hashnode.com/@rushiii) · [YouTube](https://www.youtube.com/@rushiijadhav23) · [Email](mailto:rushijadhav1423@gmail.com)
 
 ## ✨ Off the keyboard
 
